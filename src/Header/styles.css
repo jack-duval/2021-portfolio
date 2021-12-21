@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Lexend:wght@300;400&display=swap');
+
+.headerName {
+    align-content: center;
+    padding-top: 2%;
+    font-family: 'Lexend', sans-serif;
+    font-weight: 400;
+}
+
+.headerIntro {
+    display: inline-block;
+    font-family: 'Lexend', sans-serif;
+    font-weight: 300;
+    width: 40%;
+    overflow: hidden;
+    text-align: center;
+}

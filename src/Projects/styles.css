@@ -1,0 +1,23 @@
+.projectTitle {
+    display: inline-block;
+    font-family: 'Lexend', sans-serif;
+    text-align: left;
+    font-weight: 300;
+    width: 60%;
+    overflow: hidden;
+    font-size: larger;
+    padding-top: 1%;
+}
+
+.projectList {
+    font-family: 'Lexend', sans-serif;
+    list-style: none;
+    font-weight: 300;
+    overflow: hidden;
+    font-size: larger;
+    display: inline-block;
+    align-self: center;
+    text-align: left;
+    align-content: center;
+    width: 60%;
+}

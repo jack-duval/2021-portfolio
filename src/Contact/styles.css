@@ -1,0 +1,13 @@
+.contact {
+    font-family: 'Lexend', sans-serif;
+    list-style: none;
+    font-weight: 300;
+    overflow: hidden;
+    font-size: larger;
+    display: inline-block;
+    align-self: center;
+    text-align: center;
+    align-content: center;
+    padding-top: 1%;
+    width: 60%;
+}

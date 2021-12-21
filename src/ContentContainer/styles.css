@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Lexend:wght@300;400&display=swap');
+
+.buttonGroup {
+    font-family: 'Lexend', sans-serif;
+    display: inline-block;
+    color: black;
+    background: white;
+}
+
+.button {
+    font-family: 'Lexend', sans-serif;
+    display: inline-block;
+    color: black;
+    background: white;
+}

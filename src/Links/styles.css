@@ -1,0 +1,30 @@
+.ulLinks {
+    list-style: none;
+    align-content: center;
+    display: inline-block;
+    font-family: 'Lexend', sans-serif;
+    list-style: none;
+    font-weight: 300;
+    overflow: hidden;
+    font-size: larger;
+    display: inline-block;
+    align-self: center;
+    align-content: center;
+    width: 40%;
+}
+
+.list-group-item {
+    display: inline-table;
+    align-self: center;
+    align-content: center;
+    width: 30%;
+    font-family: 'Lexend', sans-serif;
+    list-style: none;
+    font-weight: 300;
+    overflow: hidden;
+    font-size: larger;
+    display: inline-block;
+    align-self: center;
+    align-content: center;
+    width: 40%;
+}
