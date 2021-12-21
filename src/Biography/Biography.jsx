@@ -8,7 +8,7 @@ const Biography = () => {
                 While I'm still finishing up school (after taking some time off to work full-time), I spend my available time exploring emerging tech, making music, playing games, and meeting other passionate builders.
             </p>
             <p>
-                Currently, I'm working with a close friend (and former colleague) on bringing behavioral talent signals to the blockchain. More to come on this soon :) 
+                Currently, I'm working with a friend (and former colleague) on bringing behavioral talent signals to the blockchain. More to come on this soon :) 
             </p>
             <p>
                 On weekends, you can find me coaching beginners and experienced sabre fencers of all ages at <a href="https://dynamo-fencing.com/">Dynamo Fencing Center</a>.
