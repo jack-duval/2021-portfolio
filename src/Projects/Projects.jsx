@@ -8,8 +8,9 @@ const Projects = () => {
     <div>
         <ul className="projectList">
             <li>
-                <h5 className="projectTitle"><strong>Thumbprint</strong></h5>
-                <p>Thumbprint changes digital identity on the blockchain to include behavioral traits. Ultimately, we'll help connect people to orgainzations where they'll be comfortable and confident. More coming soon! (DM's are also open)</p>
+                <h5 className="projectTitle"><strong>Unnaounced Web3 Project</strong></h5>
+                <p>Improving digital identity on the blockchain.</p>
+                {/* <p>Thumbprint changes digital identity on the blockchain to include behavioral traits. Ultimately, we'll help connect people to orgainzations where they'll be comfortable and confident. More coming soon! (DM's are also open)</p> */}
             </li>
             <li>
                 <h5 className="projectTitle"><strong>Maze Solver</strong></h5>
