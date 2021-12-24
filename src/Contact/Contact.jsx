@@ -10,11 +10,9 @@ const Contact = () => {
             <h4 className="contact">
                 jackduval.eth
             </h4>
-            <a href="https://twitter.com/messages/compose?recipient_id=3805104374" class="twitter-dm-button" data-screen-name="@_jackduval">
                 <h4 className="contact">
                     Twitter DM's are open too.
                 </h4>
-            </a>
         </div>
         
     );
