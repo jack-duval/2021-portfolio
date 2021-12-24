@@ -12,6 +12,6 @@
     font-family: 'Lexend', sans-serif;
     font-weight: 300;
     width: 40%;
-    overflow: hidden;
+    overflow: visible;
     text-align: center;
 }
