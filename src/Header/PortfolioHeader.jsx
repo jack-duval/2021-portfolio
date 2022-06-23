@@ -8,7 +8,7 @@ const PortfolioHeader = () => {
                 Jack Duval
             </h1>
             <h4 className="headerIntro">
-                entrepreneurially inclined comp eng + comp sci student, musician, and gamer.
+                entrepreneurially inclined computer engineering student, musician, nerd.
                 <br />
                 <strong>Currently building in web3.</strong>
             </h4>
