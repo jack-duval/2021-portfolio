@@ -5,7 +5,7 @@ const Contact = () => {
     return (
         <div>
             <h4 className="contact">
-                jackcduval(at)gmail.com
+                jackcduval(at)gmail(dot)com
             </h4>
             <h4 className="contact">
                 jackduval.eth
